@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Big Mac",
+        "price": 5.99,
+        "image": "images/bigMac.png"
+    },
+    {
+        "id": 2,
+        "name": "Fillet - o - Fish",
+        "price": 5.49,
+        "image": "images/filletFish.png"
+    },
+    {
+        "id": 3,
+        "name": "McChicken",
+        "price": 4.79,
+        "image": "images/McChicken.png"
+    },
+    {
+        "id": 4,
+        "name": "Quarter Pounder",
+        "price": 6.99,
+        "image": "images/quarterPounder.png"
+    },
+    {
+        "id": 5,
+        "name": "Chicken McNuggets",
+        "price": 4.99,
+        "image": "images/ChickenNuggets.png"
+    },
+    {
+        "id": 6,
+        "name": "French Fries",
+        "price": 2.29,
+        "image": "images/fries.png"
+    },
+    {
+        "id": 7,
+        "name": "Hash Browns",
+        "price": 1.99,
+        "image": "images/hashBrowns.png"
+    },
+    {
+        "id": 8,
+        "name": "Onion Rings",
+        "price": 2.79,
+        "image": "images/onionRings.png"
+    },
+    {
+        "id": 9,
+        "name": "Coca-Cola",
+        "price": 1.99,
+        "image": "images/cola.png"
+    },
+    {
+        "id": 10,
+        "name": "Fanta",
+        "price": 1.99,
+        "image": "images/fanta.png"
+    },
+    {
+        "id": 11,
+        "name": "Sprite",
+        "price": 1.99,
+        "image": "images/sprite.png"
+    },
+    {
+        "id": 12,
+        "name": "Iced Tea",
+        "price": 1.49,
+        "image": "images/tea.png"
+    },
+    {
+        "id": 13,
+        "name": "Coffee",
+        "price": 1.29,
+        "image": "images/coffee.png"
+    },
+    {
+        "id": 14,
+        "name": "McFlurry",
+        "price": 3.29,
+        "image": "images/McFlurry.png"
+    },
+    {
+        "id": 15,
+        "name": "Chocolate Shake",
+        "price": 2.99,
+        "image": "images/shake.png"
+    },
+    {
+        "id": 16,
+        "name": "Sundae",
+        "price": 2.49,
+        "image": "images/sundae.png"
+    }
+]
